@@ -1,1 +1,1 @@
-Example
+This code can detect brute force. detect credential dumping, detect large data transfer, detect potential data exfiltration, and look for unusual traffic. This helps detect the attack, and know what went wrong. 
